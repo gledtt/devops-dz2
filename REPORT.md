@@ -26,7 +26,7 @@ sudo journalctl -u homework-app.service
 
 ```bash
 # изменения и/или команды
-#Изменил ExecStart в homework-app.service на /opt/linux-devops-homework/server.py
+#Изменил ExecStart в homework-app.service на /opt/linux-devops-homework/app/server.py
 ```
 
 ### Почему было выбрано это решение
